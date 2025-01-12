@@ -3,6 +3,12 @@
 
 지원자 김희재 
 
+설치 라이브러리 
+-npm i chart.js
+-npm i csv-parser
+-npm i path
+
+
 ## 문항1
 src > problem > problem1.js
 
