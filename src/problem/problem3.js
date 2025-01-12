@@ -5,8 +5,8 @@ const dbConfig = {
     host: 'codingtest.brique.kr',
     user: 'codingtest',
     password: '12brique!@',
-    database: 'employees',
-    port: 3306, // 기본 포트
+    database: 'employees'
+ 
 };
 
 (async () => {
